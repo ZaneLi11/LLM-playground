@@ -4,5 +4,5 @@ env/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
-.code/Vectorstores/
-.code/data/
+code/Vectorstores/
+code/data/
